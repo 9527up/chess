@@ -1,5 +1,6 @@
 import java.awt.*;
 public class FIRPointBlack extends Canvas {
+	// git test
 	fivechess padBelonged;//黑棋棋盘
 	public FIRPointBlack(fivechess padBelonged) {
 		setSize(20,20);//棋子大小
