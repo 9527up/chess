@@ -1,5 +1,5 @@
 import java.awt.*;
-public class FIRPointBlack extends Canvas {
+public class FIRPointBlack extends Canvas  {
 	// git test
 	fivechess padBelonged;//黑棋棋盘
 	public FIRPointBlack(fivechess padBelonged) {
