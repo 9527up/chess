@@ -12,3 +12,4 @@ public class FIRPointBlack extends Canvas {
 	}
 
 }
+// merge test
